@@ -2,8 +2,7 @@
 
 A machine learning web application that helps medical professionals predict whether a breast mass is benign or malignant based on cytology measurements.
 
-![Breast Cancer Predictor Interface](/Users/musticodes/Desktop/ml_project_predict_cancer/cancer.png)
-
+![Breast Cancer Predictor Interface](images/cancer.png)
 
 ## Overview
 
